@@ -22,20 +22,4 @@ Welcome to the Awesome Quote Generator! This simple web application fetches insp
 
 - Loader animation inspired by [Loader8](https://loading.io/css/).
 
-## Contributing
-
-If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/awesome-feature`).
-3. Commit your changes (`git commit -m 'Add awesome feature'`).
-4. Push to the branch (`git push origin feature/awesome-feature`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
----
-
 Happy coding!
