@@ -1,6 +1,8 @@
 # Awesome Quote Generator
 
-Welcome to the Awesome Quote Generator! This simple web application fetches inspiring quotes from an external API and presents them to the user. It includes a stylish loader to enhance the user experience during data retrieval.
+Welcome to the Awesome Quote Generator! This simple web application fetches inspiring quotes from an external API and presents them to the user. It includes a stylish loader to enhance the user experience during data retrieval. You can click on this link below to preview live
+
+## [Watch Live](https://chaad98.github.io/Quote-Generator/)
 
 ## Features
 
